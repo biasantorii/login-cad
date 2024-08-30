@@ -7,11 +7,11 @@
  
 ![PV1](PV1.png)
  
-# __________________________________________________________________________
+# ___________________________________________________________________
  
  
 ![PV2](PV2.png)
-# __________________________________________________________________________
+# ___________________________________________________________________
  
 # FUNCIONALIDADES🖥️
  
@@ -26,20 +26,20 @@
  **`excluir(index)`**: Remove um usuário da lista e atualiza a exibição da tabela.
  
  
- # __________________________________________________________________________
- 
- # CADASTRO
+ # ________________________________________________________________
  
  
 # 🎮Tecnologias e Fontes Utilizadas:
  
 HTML para a estrutura da página.
-- JavaScript
+JavaScript para manipulação da lista de usuários e validação de acesso.
+ JavaScript
 - function
 - vscode  
- 
- 
-JavaScript para manipulação da lista de usuários e validação de acesso.
+- if
+- array
+- else
+
 ## 🚧 Fontes utilizadas
 * [Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form)- The Form Element.
 * [Alura](https://www.alura.com.br/artigos/escrever-bom-readme)- Como Escrever um README Incrível no seu GitHub.
